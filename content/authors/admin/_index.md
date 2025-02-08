@@ -30,16 +30,16 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: 📧
+  - icon: 
     url: 'mailto:c.liu6@latrobe.edu.au'
-    label: E-mail Me
+    label: E-mail Mev12
   # - icon: brands/weixin 
   #   url: 'Wechat ID: cliu383185975'
   # - icon: brands/github
   #   url: https://github.com/gcushen
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
-  - icon: 🎓 # academicons/google-scholar 
+  - icon: academicons/google-scholar 
     url: https://scholar.google.com/citations?user=bcaxipEAAAAJ&hl=en&oi=sra
   - icon: academicons/orcid
     url: https://orcid.org/
