@@ -158,7 +158,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent:  75
   # - name: Portuguese
   #   percent: 25
 
