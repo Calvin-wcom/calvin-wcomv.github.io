@@ -33,8 +33,8 @@ profiles:
   - icon: 📧
     url: 'mailto:c.liu6@latrobe.edu.au'
     label: E-mail Me
-  - icon: brands/weixin 
-    url: 'Wechat ID: cliu383185975'
+  # - icon: brands/weixin 
+  #   url: 'Wechat ID: cliu383185975'
   # - icon: brands/github
   #   url: https://github.com/gcushen
   # - icon: brands/linkedin
