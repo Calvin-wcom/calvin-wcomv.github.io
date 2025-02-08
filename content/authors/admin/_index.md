@@ -47,8 +47,8 @@ profiles:
 education:
   # - area: Detection and Estimation, Spectrum Sensing, Wireless Communications  
     institution: University Dalian University of Technology, China 
-    date_start: September 2014 
-    date_end: September 2017
+    date_start: 2016-01-01 
+    date_end: 2016-01-01
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -81,14 +81,14 @@ work:
     company_name: La Trobe University 
     # company_url: ''
     # company_logo: ''
-    date_start: October 2023 
-    date_end: Present 
+    date_start: 2016-01-01
+    date_end: 2016-01-01 
   - position: Research Assistant Professor 
     company_name: Hong Kong Polytechnic University  
     # company_url: ''
     # company_logo: ''
-    date_start: March 2023 
-    date_end: October 2023
+    date_start: 2016-01-01
+    date_end: 2016-01-01
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -98,8 +98,8 @@ work:
     company_name: Fridrench Alexandar University, Germany  
     # company_url: ''
     # company_logo: ''
-    date_start: June 2022 
-    date_end: March 2023 
+    date_start: 2016-01-01
+    date_end: 2016-01-01
     # summary: |
     #   Responsibilities include:
     #   - Migrated infrastructure to a new data center
@@ -109,14 +109,14 @@ work:
     company_name: University of New South Wales, Australia 
     # company_url: ''
     # company_logo: ''
-    date_start: November 2019 
-    date_end: June 2022 
+    date_start: 2016-01-01
+    date_end: 2016-01-01
   - position: Visiting Scholar 
     company_name: University of Tennessee, Knoxville, USA  
     # company_url: ''
     # company_logo: ''
-    date_start: July 2016 
-    date_end: November 2015
+    date_start: 2016-01-01
+    date_end: 2016-01-01
   
 
 
