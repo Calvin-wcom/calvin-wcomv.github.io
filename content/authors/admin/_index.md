@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: 
+  # - icon: 
     url: 'mailto:c.liu6@latrobe.edu.au'
     label: E-mail Mev12
   # - icon: brands/weixin 
